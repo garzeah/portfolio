@@ -457,7 +457,6 @@ footer {
   margin-bottom: 50px;
 }
 .project {
-  display: flex;
   position: relative;
   max-width: 900px;
   margin: 0 auto 30px auto;
@@ -467,34 +466,24 @@ footer {
 }
 .project-image {
   float: left;
-  padding: 10px;
-}
-
-.project-image img {
-  height: 250px;
-  width: 250px;
+  padding: 15px;
 }
 .project-info {
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  /* position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  margin-left: 300px;
-  padding: 15px; */
+  position: relative;
+  margin: 30px;
+  padding: 30px 15px;
+  top: auto;
+  transform: none;
 }
 .project-info h3 {
   font-size: 1.5em;
   font-weight: 300;
   color: #374054;
-  margin: 0 15px 15px 0;
+  margin: 0 0 15px 0;
 }
 .project-info p {
   color: #74808a;
-  margin: 0 15px 15px 0;
+  margin: 0 0 15px 0;
   font-size: 0.9em;
 }
 .no-image .project-info {
