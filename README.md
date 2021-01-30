@@ -25,6 +25,6 @@ This is a static website that contains all of my professional information.
 
 Andy Garcia: acgarzeah@gmail.com
 
-Project Link: https://github.com/garzeah/decipher
+Project Link: https://github.com/garzeah/portfolio
 
 Website: https://garzeah.github.io/portfolio/
