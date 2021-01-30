@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://github.com/garzeah/restaurant-tinder">
-    <img src="src/assets/images/desktopLogo.png" alt="Decipher Logo">
-  </a> -->
+  <a href="https://garzeah.github.io/portfolio/">
+    <img src="favicon.ico" alt="Andy Garcia's Logo">
+  </a>
 
   <h3 align="center">My Portfolio</h3>
 
