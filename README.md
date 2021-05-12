@@ -5,18 +5,8 @@
     <img src="favicon.ico" alt="Andy Garcia's Logo">
   </a>
 
-  <h3 align="center">My Portfolio</h3>
-
-  <p align="center">
-    A collection of my projects!
-  </p>
+  <h3 align="center">Andy Garcia's Portfolio</h3>
 </p>
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-This is a static website that contains all of my professional information.
 
 
 <!-- CONTACT -->
